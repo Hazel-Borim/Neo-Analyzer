@@ -1,0 +1,6 @@
+com\zel\neoanalyzer\dao\PersonagemDAO.class
+com\zel\neoanalyzer\Application.class
+com\zel\neoanalyzer\NeoAnalyzer.class
+com\zel\neoanalyzer\db\Neo4jConnection.class
+com\zel\neoanalyzer\controller\PersonagemController.class
+com\zel\neoanalyzer\dao\DAOFactory.class
